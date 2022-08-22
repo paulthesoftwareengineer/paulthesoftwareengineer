@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @paulthesoftwareengineer
-- 👀 I’m interested in spatial computing 
 - 🌱 I’m currently learning AR and Unity
 - 💞️ I’m looking to collaborate on spatial computing development.
 - 📫 How to reach me, paulthesoftwareengineer@outlook.com
