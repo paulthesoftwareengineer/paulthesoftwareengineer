@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paulthesoftwareengineer
-- 🌱 I’m currently learning AR and Unity
-- 💞️ I’m looking to collaborate on spatial computing development.
+- 🌱 I’m currently learning UX Engineering
+- 💞️ I’m looking to collaborate with UX/UI developers, UX Engineers, prototype engineers, etc.
 - 📫 How to reach me, paulthesoftwareengineer@outlook.com
 
 <!---
