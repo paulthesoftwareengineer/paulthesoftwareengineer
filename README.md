@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paulthesoftwareengineer
-- 🌱 I’m currently learning UX Engineering
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate with UX/UI developers, UX Engineers, prototype engineers, etc.
 - 📫 How to reach me, paulthesoftwareengineer@outlook.com
 
