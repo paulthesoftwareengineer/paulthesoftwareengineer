@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paulthesoftwareengineer
-- 🌱 I’m currently learn
+- 🌱 Django
 - 💞️ I’m enjoy collaborating
 - 📫 How to reach me, paulthesoftwareengineer@outlook.com
 
