@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @paulthesoftwareengineer
-- 🌱
-
-<!---
-paulthesoftwareengineer/paulthesoftwareengineer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+MS Cybersecurity Student | Azure Cloud Security | C++ | Seeking Remote Evening SOC / Cloud Security | Security+ (in progress)
