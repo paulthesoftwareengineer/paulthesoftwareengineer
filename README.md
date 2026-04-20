@@ -16,7 +16,7 @@ MS Cybersecurity student (Liberty University) | Software Engineer | Cloud Securi
 - Cloud Security Portfolio Hub: https://github.com/paulthesoftwareengineer/cloud-security-portfolio
 
 ## What you’ll find here
-- Hands-on labs with clear “How to run” steps
+- Hands-on labs with clear "How to run" steps
 - Architecture diagrams + threat models
 - Security findings write-ups and remediation notes
 
@@ -24,4 +24,5 @@ MS Cybersecurity student (Liberty University) | Software Engineer | Cloud Securi
 - GitHub: https://github.com/paulthesoftwareengineer
 
 ---
+
 If you’re recruiting for remote Cloud Security / DevSecOps roles, feel free to reach out.
